@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👨🏼‍💻 building [murphee][murphee]  
-🧠 learning [svelte][svelte], [tailwind][tailwind], [fauna][fauna]  
-💜 loving [react][react],[angular][angular],[vuejs][vuejs] 
+👨🏼‍💻 building [murphee][murphee]  **|**
+🧠 learning [svelte][svelte], [tailwind][tailwind], [fauna][fauna] **|** 
+💜 loving [react][react],[angular][angular],[vuejs][vuejs] **|**
 
 
 
